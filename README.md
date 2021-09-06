@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+<!--
 你好，我是[**若川**](https://lxchuan12.gitee.io)。最近组织了[源码共读活动《1个月，200+人，一起读了4周源码》](https://mp.weixin.qq.com/s?__biz=MzA5MjQwMzQyNw==&mid=2650756550&idx=1&sn=9acc5e30325963e455f53ec2f64c1fdd&chksm=8866564abf11df5c41307dba3eb84e8e14de900e1b3500aaebe802aff05b0ba2c24e4690516b&token=917686367&lang=zh_CN#rd)，感兴趣的可以加我微信 [ruochuan12](https://mp.weixin.qq.com/s?__biz=MzA5MjQwMzQyNw==&mid=2650756550&idx=1&sn=9acc5e30325963e455f53ec2f64c1fdd&chksm=8866564abf11df5c41307dba3eb84e8e14de900e1b3500aaebe802aff05b0ba2c24e4690516b&token=917686367&lang=zh_CN#rd) 参与，长期交流学习。微信搜索「[若川视野](https://mp.weixin.qq.com/s/nXb2hHMCarInRbHYHcNhVA)」关注我，长期交流学习。江西人，某不那么知名的陶瓷大学毕业生，目前在`杭州`从事`前端开发`工作。常以**若川**为名混迹于江湖。更详细的可以点击[关于我](https://lxchuan12.gitee.io/about/)<br>
 我历时很久写了[《**学习源码整体架构系列**》](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA5MjQwMzQyNw==&action=getalbum&album_id=1342211915371675650&scene=173&from_msgid=2650746362&from_itemidx=1&count=3&nolastread=1&uin=&key=&devicetype=Windows+10+x64&version=6303005d&lang=zh_CN&ascene=0&fontgear=2)10余篇文章，包含[jQuery](https://lxchuan12.gitee.io/jquery)、[underscore](https://lxchuan12.gitee.io/underscore)、[lodash](https://lxchuan12.gitee.io/lodash)、[sentry](https://lxchuan12.gitee.io/sentry)、[vuex](https://lxchuan12.gitee.io/vuex)、[axios](https://lxchuan12.gitee.io/axios)、[koa](https://lxchuan12.gitee.io/koa)、[redux](https://lxchuan12.gitee.io/redux)、[vue-devtools](https://lxchuan12.gitee.io/open-in-editor)、[vuex4](https://lxchuan12.gitee.io/vuex4)、[vue3 工具函数](https://lxchuan12.gitee.io/vue-next-utils/)、[vue3 发布](https://lxchuan12.gitee.io/vue-next-release/)等源码，详细的写了我是如何看源码的，并且绘制了大量的关系图和原理图，应该算是比较好的**学习源码**的文章。[更多可参考我的这篇知乎回答：有哪些必看的js库？](https://mp.weixin.qq.com/s/OVH6gP0R29oRSzNhoob4SQ)
 
@@ -32,8 +32,10 @@ Here are some ideas to get you started:
 欢迎加我微信`ruochuan12`，拉你进「若川视野前端交流群」，**长期交流学习，经常有福利**~
 
 
+
 - 是一名编程讲师
 - 是一名技术 up 主
 - 是一名程序员
 
 可以关注我的 b 站哦，每周都会分享高级前端进阶硬核内容 [传送门](https://space.bilibili.com/175301983?spm_id_from=333.788.b_765f7570696e666f.1)
+-->
