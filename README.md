@@ -5,7 +5,7 @@
 
 [![Gitee](https://img.shields.io/badge/Vixcity-Gitee-red.svg?style=flat-square&logo=gitee)](https://gitee.com/vixcity)
 
-[![Blog](https://img.shields.io/badge/Vixcity-Blog-orange.svg?style=flat-square&logo=gitee)](http://vixcity.gitee.io/my-gitee-blog/)
+[![Blog](https://img.shields.io/badge/Vixcity-Blog-orange.svg?style=flat-square&logo=blog)](http://vixcity.gitee.io/my-gitee-blog/)
 
 [![Github](https://img.shields.io/badge/Vixcity-Github-black.svg?style=flat-square&logo=github)](https://github.com/Vixcity)
 
