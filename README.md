@@ -1,5 +1,17 @@
 ### Hi there 👋
 是我啊,Vixcity
+
+你可以在以下渠道了解我
+
+[![Gitee](https://img.shields.io/badge/Vixcity-Gitee-red.svg?style=flat-square&logo=gitee)](https://gitee.com/vixcity)
+
+[![Blog](https://img.shields.io/badge/Vixcity-Blog-orange.svg?style=flat-square&logo=gitee)](http://vixcity.gitee.io/my-gitee-blog/)
+
+[![Github](https://img.shields.io/badge/Vixcity-Github-black.svg?style=flat-square&logo=github)](https://github.com/Vixcity)
+
+以下这是我写的一份小型的Vue框架，欢迎star和提PR
+
+[![github](https://img.shields.io/github/stars/lxchuan12/blog?label=Stars&style=flat-square&logo=GitHub)](https://github.com/lxchuan12/blog)
 <!--
 **Vixcity/Vixcity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
