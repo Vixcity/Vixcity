@@ -3,15 +3,15 @@
 
 你可以在以下渠道了解我
 
-[![Gitee](https://img.shields.io/badge/Vixcity-Gitee-red.svg?style=flat-square&logo=gitee)](https://gitee.com/vixcity)
+Gitee：[![Gitee](https://img.shields.io/badge/Vixcity-Gitee-red.svg?style=flat-square&logo=gitee)](https://gitee.com/vixcity)
 
-[![Blog](https://img.shields.io/badge/Vixcity-Blog-orange.svg?style=flat-square&logo=blog)](http://vixcity.gitee.io/my-gitee-blog/)
+博客：[![Blog](https://img.shields.io/badge/Vixcity-Blog-orange.svg?style=flat-square&logo=blog)](http://vixcity.gitee.io/my-gitee-blog/)
 
-[![Github](https://img.shields.io/badge/Vixcity-Github-black.svg?style=flat-square&logo=github)](https://github.com/Vixcity)
+Github：[![Github](https://img.shields.io/badge/Vixcity-Github-black.svg?style=flat-square&logo=github)](https://github.com/Vixcity)
 
 以下这是我写的一份小型的Vue框架，欢迎star和提PR
 
-[![github](https://img.shields.io/github/stars/Vixcity/small-vue?label=Stars&style=flat-square&logo=GitHub)](https://github.com/Vixcity/smal-vue)
+small-vue：[![github](https://img.shields.io/github/stars/Vixcity/small-vue?label=Stars&style=flat-square&logo=GitHub)](https://github.com/Vixcity/smal-vue)
 <!--
 **Vixcity/Vixcity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
