@@ -11,7 +11,7 @@
 
 以下这是我写的一份小型的Vue框架，欢迎star和提PR
 
-[![github](https://img.shields.io/github/stars/lxchuan12/blog?label=Stars&style=flat-square&logo=GitHub)](https://github.com/lxchuan12/blog)
+[![github](https://img.shields.io/github/stars/Vixcity/small-vue?label=Stars&style=flat-square&logo=GitHub)](https://github.com/Vixcity/smal-vue)
 <!--
 **Vixcity/Vixcity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
