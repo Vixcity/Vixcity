@@ -12,6 +12,10 @@ Github：[![Github](https://img.shields.io/badge/Vixcity-Github-black.svg?style=
 以下这是我写的一份小型的Vue框架，欢迎star和提PR
 
 small-vue：[![github](https://img.shields.io/github/stars/Vixcity/small-vue?label=Stars&style=flat-square&logo=GitHub)](https://github.com/Vixcity/smal-vue)
+
+以下这是我自己的一份知识库，以后会重构，用卡片盒笔记法，进行一种知识体系的打造，欢迎star
+
+我的个人知识库：[![github](https://img.shields.io/github/stars/Vixcity/knowledge-base?label=Stars&style=flat-square&logo=GitHub)](https://github.com/Vixcity/knowledge-base)
 <!--
 **Vixcity/Vixcity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
