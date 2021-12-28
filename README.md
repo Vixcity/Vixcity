@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 
 可以关注我的 b 站哦，每周都会分享高级前端进阶硬核内容 [传送门](https://space.bilibili.com/175301983?spm_id_from=333.788.b_765f7570696e666f.1)
 -->
+
 <!-- 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fch3cknull%2Fch3cknull&count_bg=%233D91C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/2ea49c5c-36cd-42f2-8d71-b99b2661e5d8.svg)](https://wakatime.com/@2ea49c5c-36cd-42f2-8d71-b99b2661e5d8)
@@ -91,7 +92,7 @@ Fan of TDD and FP
 ### Weekly Development Breakdown
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ch3cknull&layout=compact" alt="wakatime"> 
 -->
-
+<!-- 
 ### Hey 👋, I'm whylost!
 <p>
 `<img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=whylost"/>
@@ -103,3 +104,4 @@ Fan of TDD and FP
   <img height="150em" src="https://github-profile-trophy.vercel.app/?username=whylost&row=1&column=6&margin-w=8&no-frame=true&no-bg=true" />
 </div>
 <img width="1500em" src="https://metrics.lecoq.io/whylost?template=classic&isocalendar=1&followup=1&lines=1&discussions=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&followup.sections=repositories&config.timezone=Asia%2FShanghai"> 
+-->
