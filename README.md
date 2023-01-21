@@ -5,7 +5,9 @@
 
 Gitee：[![Gitee](https://img.shields.io/badge/Vixcity-Gitee-red.svg?style=flat-square&logo=gitee)](https://gitee.com/vixcity)
 
-博客：[![Blog](https://img.shields.io/badge/Vixcity-Blog-orange.svg?style=flat-square&logo=blog)](http://vixcity.gitee.io/my-gitee-blog/)
+以前的博客：[![Blog](https://img.shields.io/badge/Vixcity-Blog-orange.svg?style=flat-square&logo=blog)](http://vixcity.gitee.io/my-gitee-blog/)
+
+新博客：[![Blog](https://img.shields.io/badge/Vixcity-Blog-orange.svg?style=flat-square&logo=blog)](https://blog.vixcitycc.top/)
 
 Github：[![Github](https://img.shields.io/badge/Vixcity-Github-black.svg?style=flat-square&logo=github)](https://github.com/Vixcity)
 
