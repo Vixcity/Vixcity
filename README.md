@@ -15,13 +15,11 @@ small-vue：[![github](https://img.shields.io/github/stars/Vixcity/small-vue?lab
 以下这是我自己的一份知识库，以后会重构，用卡片盒笔记法，进行一种知识体系的打造，欢迎star
 我的个人知识库：[![github](https://img.shields.io/github/stars/Vixcity/knowledge-base?label=Stars&style=flat-square&logo=GitHub)](https://github.com/Vixcity/knowledge-base)
 
-本年汇总
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Vixcity&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vixcity&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-
-访问人数
+本页面访问人数：
 ![访问人数](https://profile-counter.glitch.me/Vixcity/count.svg)
 
-统计数据
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Vixcity&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vixcity&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
 [![统计数据](https://github-readme-activity-graph.vercel.app/graph?username=Vixcity&theme=react-dark)](https://github.com/Vixcity)
 
 <!--
